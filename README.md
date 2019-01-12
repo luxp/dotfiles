@@ -6,7 +6,7 @@ curl -L https://raw.githubusercontent.com/luxp/dotfiles/master/bootstrap.sh | ba
 ```
 
 ## Features
-- Automatic install and config below things
+- Automaticaly install and config below things
     - brew
     - git
     - nodejs, npm, jest, starz
